@@ -1,0 +1,95 @@
+{
+    "users" : [
+        {
+          "id": 1,
+          "nama": "ambar",
+          "alamat": "Yogyakarta",
+          "umur": 24,
+          "hp": "08976554678"
+        },
+        {
+          "id": 2,
+          "nama": "beni",
+          "alamat": "Solo",
+          "umur": 26,
+          "hp": "089765534567"
+        },
+        {
+          "id": 3,
+          "nama": "coki",
+          "alamat": "Magelang",
+          "umur": 24,
+          "hp": "08976524356"
+        },
+        {
+          "id": 4,
+          "nama": "dela",
+          "alamat": "Magelang",
+          "umur": 24,
+          "hp": "08976524356"
+        },
+        {
+          "id": 5,
+          "nama": "ethan",
+          "alamat": "Magelang",
+          "umur": 24,
+          "hp": "08976524356"
+        },
+        {
+          "id": 6,
+          "nama": "fuad",
+          "alamat": "Magelang",
+          "umur": 24,
+          "hp": "08976524356"
+        },
+        {
+          "id": 7,
+          "nama": "gaga",
+          "alamat": "Magelang",
+          "umur": 24,
+          "hp": "08976524356"
+        },
+        {
+          "id": 8,
+          "nama": "hasan",
+          "alamat": "Magelang",
+          "umur": 24,
+          "hp": "08976524356"
+        },
+        {
+          "id": 9,
+          "nama": "ika",
+          "alamat": "Magelang",
+          "umur": 24,
+          "hp": "08976524356"
+        },
+        {
+          "id": 10,
+          "nama": "jojo",
+          "alamat": "Magelang",
+          "umur": 24,
+          "hp": "08976524356"
+        },
+        {
+          "id": 11,
+          "nama": "kenta",
+          "alamat": "Magelang",
+          "umur": 24,
+          "hp": "08976524356"
+        },
+        {
+          "id": 12,
+          "nama": "lala",
+          "alamat": "Magelang",
+          "umur": 24,
+          "hp": "08976524356"
+        },
+        {
+          "id": 13,
+          "nama": "marni",
+          "alamat": "Magelang",
+          "umur": 24,
+          "hp": "08976524356"
+        }
+      ]
+}
